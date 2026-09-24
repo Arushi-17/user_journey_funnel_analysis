@@ -17,7 +17,7 @@ The solution combines:
 
 ---
 
-## Business Problem
+## Business Problems
 
 A travel and hospitality company was experiencing significant drop-off across their online booking platform. While the platform was attracting a healthy volume of users through multiple acquisition channels, a large proportion of users were abandoning the journey before completing their booking.
 
